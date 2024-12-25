@@ -1,7 +1,3 @@
-Here’s a draft of the **General Terms and Conditions** for the **Kasmaal Internship Program Bootcamp** that covers the key points:
-
----
-
 ### **Kasmaal Internship Program Bootcamp - Terms and Conditions**  
 
 **1. Introduction**  
@@ -11,7 +7,7 @@ Welcome to the **Kasmaal Internship Program Bootcamp**! By applying for and part
 
 **2. Registration and Fees**  
 - **Registration Fee**: A one-time **$10** registration fee is required to complete your registration. This payment must be made via the designated Waafi Telesom Number: **0637383663**. The name that will appear when making the payment is **Musab Mahad Haji**.  
-- **First Month Fee**: A **$15** fee is required before the bootcamp begins and will cover the first month of the program.  
+- **First Month Fee**: A **$15** fee is required before the bootcamp begins and will cover the program's first month.  
 - **Proof of Payment**: You must upload a clear photo or screenshot of your payment receipt to confirm your registration and first-month payment. Failure to upload proof of payment may result in non-acceptance into the bootcamp.  
 - **Payment Details**: Any payments sent to accounts other than **0637383663** or with incorrect names will not be accepted.  
 
@@ -19,8 +15,8 @@ Welcome to the **Kasmaal Internship Program Bootcamp**! By applying for and part
 
 **3. Program Participation**  
 - **Eligibility**: To join the Kasmaal Internship Program Bootcamp, applicants must meet the program’s basic eligibility requirements, including a passion for learning software engineering and commitment to completing the bootcamp.  
-- **Attendance and Engagement**: Participants are expected to attend all scheduled sessions and actively engage in assignments and projects.  
-- **Code of Conduct**: Participants must adhere to professional standards, demonstrating respect, integrity, and responsibility. Any behavior that violates the bootcamp's code of conduct may result in termination from the program.  
+- **Attendance and Engagement**: Participants must attend all scheduled sessions and actively engage in assignments and projects.  
+- **Code of Conduct**: Participants must adhere to professional standards and demonstrate respect, integrity, and responsibility. Any behavior that violates the boot camp's code of conduct may result in termination from the program.  
 
 ---
 
@@ -39,7 +35,7 @@ Welcome to the **Kasmaal Internship Program Bootcamp**! By applying for and part
 
 **6. Intellectual Property**  
 - **Content Ownership**: All learning materials, assignments, and resources provided by the bootcamp remain the property of Kasmaal Bootcamp. Participants may not distribute, copy, or use them for any commercial purposes.  
-- **Participant Work**: Any work created by participants during the bootcamp, including but not limited to software, code, and projects, remains the intellectual property of the participant, unless otherwise specified.
+- **Participant Work**: Any work created by participants during the bootcamp, including but not limited to software, code, and projects, remains the intellectual property of the participant unless otherwise specified.
 
 ---
 
@@ -55,7 +51,7 @@ Welcome to the **Kasmaal Internship Program Bootcamp**! By applying for and part
 ---
 
 **9. Governing Law**  
-These Terms and Conditions shall be governed by and construed in accordance with the laws of [Your Country/Region], and any disputes will be subject to the exclusive jurisdiction of the courts in that region.
+These Terms and Conditions shall be governed by and construed by the laws of Sharia, and any disputes will be subject to the exclusive jurisdiction of the courts in that region.
 
 ---
 
