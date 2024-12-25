@@ -1,7 +1,7 @@
 ### **Kasmaal Internship Program Bootcamp - Terms and Conditions**  
 
 **1. Introduction**  
-Welcome to the **Kasmaal Internship Program Bootcamp**! By applying for and participating in this program, you agree to comply with these Terms and Conditions. These terms govern your participation, payment, and conduct throughout the bootcamp.
+Welcome to the **Kasmaal Internship Program**! By applying for and participating in this program, you agree to comply with these Terms and Conditions. These terms govern your participation, payment, and conduct throughout the bootcamp.
 
 ---
 
