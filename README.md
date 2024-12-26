@@ -63,5 +63,3 @@ Kasmaal Bootcamp reserves the right to amend or update these Terms and Condition
 By applying and participating in the Kasmaal Internship Program Bootcamp, you acknowledge that you have read, understood, and agree to the above Terms and Conditions.
 
 ---
-
-Feel free to modify or add any specific clauses that are more relevant to your program or legal requirements!
