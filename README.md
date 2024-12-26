@@ -6,10 +6,10 @@ Welcome to the **Kasmaal Internship Program**! By applying for and participating
 ---
 
 **2. Registration and Fees**  
-- **Registration Fee**: A one-time **$10** registration fee is required to complete your registration. This payment must be made via the designated Waafi Telesom Number: **0637383663**. The name that will appear when making the payment is **Musab Mahad Haji**.  
+- **Registration Fee**: A one-time **$10** registration fee is required to complete your registration. This payment must be made via the designated Waafi Telesom Number: **252619690193**. The name that will appear when making the payment is **Musab Mahad Haji**.  
 - **First Month Fee**: A **$15** fee is required before the bootcamp begins and will cover the program's first month.  
 - **Proof of Payment**: You must upload a clear photo or screenshot of your payment receipt to confirm your registration and first-month payment. Failure to upload proof of payment may result in non-acceptance into the bootcamp.  
-- **Payment Details**: Any payments sent to accounts other than **0637383663** or with incorrect names will not be accepted.  
+- **Payment Details**: Any payments sent to accounts other than **252619690193** or with incorrect names will not be accepted.  
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to the **Kasmaal Internship Program**! By applying for and participating
 **4. Payment and Refund Policies**  
 - **Refund Policy**: The registration fee is non-refundable. If you fail to attend or complete the program, no refunds will be issued for the monthly fees.  
 - **Late Payment**: Participants are expected to pay the monthly fee on time. If the payment is delayed, access to the program may be restricted until payment is received.  
-- **Payment Methods**: Payments must be made via the Waafi Telesom Number **0637383663** only. Other payment methods or accounts will not be accepted.  
+- **Payment Methods**: Payments must be made via the Waafi Telesom Number **252619690193** only. Other payment methods or accounts will not be accepted.  
 
 ---
 
