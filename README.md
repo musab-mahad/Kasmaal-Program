@@ -1,7 +1,7 @@
 ### **Kasmaal Program - Terms and Conditions**  
 
 **1. Introduction**  
-Welcome to the **Kasmaal Internship Program**! By applying for and participating in this program, you agree to comply with these Terms and Conditions. These terms govern your participation, payment, and conduct throughout the program.
+Welcome to the **Kasmaal Program**! By applying for and participating in this program, you agree to comply with these Terms and Conditions. These terms govern your participation, payment, and conduct throughout the program.
 
 ---
 
