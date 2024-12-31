@@ -21,7 +21,7 @@ Welcome to the **Kasmaal Program**! By applying for and participating in this pr
 ---
 
 **4. Payment and Refund Policies**  
-- **Refund Policy**: The registration fee is non-refundable. If you fail to attend or complete the program, no refunds will be issued for the monthly fees.  
+- **Refund Policy**: The registration fee is non-refundable. If you fail to attend or complete the program, no refunds will be issued for the monthly payments.  
 - **Late Payment**: Participants are expected to pay the monthly fee on time. If the payment is delayed, access to the program may be restricted until payment is received.  
 - **Payment Methods**: Payments must be made via the Waafi Number **252619690193** only. Other payment methods or accounts will not be accepted.  
 
