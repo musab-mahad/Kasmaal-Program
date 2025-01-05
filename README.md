@@ -6,10 +6,10 @@ Welcome to the **Kasmaal Program**! You agree to comply with these Terms and Con
 ---
 
 **2. Registration and Fees**  
-- **Registration Fee**: A one-time **$10** registration fee is required to complete your registration. This payment must be made via the designated Waafi Number: **252619690193**. The name that will appear when making the payment is **Musab Mahad Haji**.  
+- **Registration Fee**: A one-time **$10** registration fee is required to complete your registration. This payment must be made via the designated Waafi Number: **252613430998**. The name that will appear when making the payment is **KASMAAL PROG RAM**.  
 - **First Month Fee**: A **$15** fee is required before the program begins and will cover the program's first month.  
 - **Proof of Payment**: You must upload a clear photo or screenshot of your payment receipt to confirm your registration and first-month payment. Failure to upload proof of payment may result in non-acceptance of the program.  
-- **Payment Details**: Any payments sent to accounts other than **252619690193** or with incorrect names will not be accepted.  
+- **Payment Details**: Any payments sent to accounts other than **252613430998** or with incorrect names will not be accepted.  
 
 ---
 
