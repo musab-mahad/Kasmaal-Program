@@ -1,4 +1,4 @@
-### **Kasmaal Program - Terms and Conditions**  
+### **Kasmaal - Terms and Conditions**  
 
 **1. Introduction**  
 Welcome to the **Kasmaal Program**! You agree to comply with these Terms and Conditions by applying for and participating in this program. These terms govern your participation, payment, and conduct throughout the program.
